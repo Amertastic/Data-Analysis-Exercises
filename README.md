@@ -53,4 +53,13 @@ The fifth project, "Model Evaluation and Refinement," focused on the importance 
 The sixth and final project, "Real Estate Investment Trust Project," involved using the skills learned in the course to analyze and predict the market price of houses based on a dataset containing detailed information about house prices in the region based on a number of property features. This project required creating a Jupyter notebook and applying data analysis and modeling techniques to housing price data. The learning objectives for this project were to create a Jupyter notebook and apply data analysis and modeling techniques to housing price data.
 
 
+### Technologies and Libraries Used
 
+- Python programming language
+- Jupyter Notebook (JupyterLab)
+- Pandas for data manipulation and analysis
+- NumPy for numerical computing
+- Matplotlib for data visualization
+- Seaborn for statistical data visualization
+- Scikit-learn for machine learning tasks
+- Grid Search for hyperparameter tuning
