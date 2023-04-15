@@ -33,6 +33,24 @@ The projects and exercises uploaded cover the Data Analysis with Python course o
 The first project, "Data Acquisition," focused on using Python libraries to import data from different sources and perform basic tasks to explore and analyze data sets. The learning objectives of this project include analyzing Python data using a dataset, identifying Python libraries, reading data using Pandas, and demonstrating how to import and export data in Python.
 
 
+#### 02 - Data Wrangling.ipynb
+The second project, "Data Wrangling," covered the fundamental tasks required for pre-processing and cleaning data sets. It included handling missing values, formatting data, normalizing data, binning, and converting categorical variables to numerical quantitative variables. The learning objectives for this project were to describe how to handle missing values, data formatting techniques, data normalization, binning, and categorical variables.
+
+
+#### 03 - Exploratory Data Analysis.ipynb
+The third project, "Exploratory Data Analysis," focused on understanding and performing exploratory data analysis using statistical measures such as mean, median, mode, and quartile values. Grouping data values into bins and comparing two continuous numerical variables using Pearson correlation and using the Chi-square test to find the association between two categorical variables were also covered. The learning objectives of this project were to implement descriptive statistics, describe data correlation processes, describe why and how to apply the Chi-Squared test, and demonstrate the basics of grouping.
+
+
+#### 04 - Model Development.ipynb
+The fourth project, "Model Development," covered defining the explanatory and response variables and understanding the difference between simple and multiple linear regression models. Evaluating a model using visualization, polynomial regression techniques, and pipelines were also covered. The learning objectives of this project included describing how to process linear regression in Python, applying model evaluation using visualization in Python, applying polynomial regression techniques to Python, evaluating a data model using visualization, describing the use of R-squared and MSE for in-sample evaluation, and applying prediction and decision making to Python model creation.
+
+
+#### 05 - Model Evaluation and Refinement.ipynb
+The fifth project, "Model Evaluation and Refinement," focused on the importance of model evaluation and discussed different data model refinement techniques. Overfitting, underfitting, and model selection were covered, as well as using Ridge Regression to regularize and reduce standard errors to prevent overfitting a regression model and using the Grid Search method to tune the hyperparameters of an estimator. The learning objectives for this project included describing data model refinement techniques, explaining overfitting, underfitting, and model selection, applying ridge regression to regularize and reduce standard errors to avoid overfitting a regression model, and applying grid search techniques to Python data.
+
+
+#### 06 - Real Estate Investment Trust Project.ipynb
+The sixth and final project, "Real Estate Investment Trust Project," involved using the skills learned in the course to analyze and predict the market price of houses based on a dataset containing detailed information about house prices in the region based on a number of property features. This project required creating a Jupyter notebook and applying data analysis and modeling techniques to housing price data. The learning objectives for this project were to create a Jupyter notebook and apply data analysis and modeling techniques to housing price data.
 
 
 
