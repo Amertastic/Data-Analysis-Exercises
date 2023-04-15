@@ -26,3 +26,13 @@ Analyzing Stock Performance and Building a Dashboard [Achieved 100%]
 - README.md
 
 ### Executive Summary
+
+The projects and exercises uploaded cover the Data Analysis with Python course offered by IBM Data Science Professional Certificate.  Each project corresponds to one of the six weeks of the course and focuses on specific learning outcomes.
+
+#### 01 - Data Acquisition.ipynb
+The first project, "Data Acquisition," focused on using Python libraries to import data from different sources and perform basic tasks to explore and analyze data sets. The learning objectives of this project include analyzing Python data using a dataset, identifying Python libraries, reading data using Pandas, and demonstrating how to import and export data in Python.
+
+
+
+
+
