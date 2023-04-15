@@ -1,6 +1,6 @@
 # Data-Analysis-Exercises
 
-Analyzing Stock Performance and Building a Dashboard [Achieved 100%]
+Showcase of practical data analysis skills using Python [Achieved 100%]
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data_Analysis_w_Python.png">
