@@ -11,7 +11,7 @@ Showcase of practical data analysis skills using Python [Achieved 100%]
 1) Navigating the Git Hub Repository
 2) Executive Summary
 3) Technologies and Libraries Used
-4) Data Gathering
+4) Dataset
 5) Evaluation
 
 ### Navigating the GitHub Repository
@@ -63,3 +63,13 @@ The sixth and final project, "Real Estate Investment Trust Project," involved us
 - Seaborn for statistical data visualization
 - Scikit-learn for machine learning tasks
 - Grid Search for hyperparameter tuning
+
+### Dataset
+
+Dataset used in the final assignment can be found as a CSV file in the Data folder - kc_house_data.csv
+The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
+The original source can be found [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download).
+
+
+
+
