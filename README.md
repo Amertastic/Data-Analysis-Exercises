@@ -70,6 +70,13 @@ Dataset used in the final assignment can be found as a CSV file in the Data fold
 The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 The original source can be found [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download).
 
+### Evaluation
 
+The collection of projects presented in this GitHub repo demonstrates a solid understanding of data analysis with Python. The projects cover a range of topics, including data acquisition, data wrangling, exploratory data analysis, model development, model evaluation, and refinement. Each project is well-organized and contains clear explanations of the techniques used and the results obtained.
 
+The projects demonstrate proficiency in using Python libraries, including Pandas, Matplotlib, and Scikit-learn, to analyze and visualize data. The projects also showcase the ability to handle missing data, normalize data, and perform regression analysis to develop predictive models.
+
+In particular, the final project, "Real Estate Investment Trust Project," is an excellent example of applying the skills and knowledge acquired in the previous projects to a real-world problem. The project involves analyzing and predicting the market price of houses based on a dataset of house sale prices in King County, which includes Seattle. The project showcases proficiency in data analysis and modeling techniques, including exploratory data analysis, linear regression, regularization, and hyperparameter tuning.
+
+Overall, this collection of projects demonstrates a strong foundation in data analysis with Python and showcases the ability to apply these skills to real-world problems. 
 
