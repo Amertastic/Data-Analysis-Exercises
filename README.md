@@ -42,32 +42,40 @@ The first project, "Data Acquisition," focused on using Python libraries to impo
 #### 02 - Data Wrangling.ipynb
 The second project, "Data Wrangling," covered the fundamental tasks required for pre-processing and cleaning data sets. It included handling missing values, formatting data, normalizing data, binning, and converting categorical variables to numerical quantitative variables. The learning objectives for this project were to describe how to handle missing values, data formatting techniques, data normalization, binning, and categorical variables.
 
+<!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
-| *Reading /Saving Other Data Formats* |
+| *Reading / Saving Other Data Formats* |
+-->
 
 
 #### 03 - Exploratory Data Analysis.ipynb
 The third project, "Exploratory Data Analysis," focused on understanding and performing exploratory data analysis using statistical measures such as mean, median, mode, and quartile values. Grouping data values into bins and comparing two continuous numerical variables using Pearson correlation and using the Chi-square test to find the association between two categorical variables were also covered. The learning objectives of this project were to implement descriptive statistics, describe data correlation processes, describe why and how to apply the Chi-Squared test, and demonstrate the basics of grouping.
 
+<!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
-| *Reading /Saving Other Data Formats* |
+| *Reading / Saving Other Data Formats* |
+-->
 
 
 #### 04 - Model Development.ipynb
 The fourth project, "Model Development," covered defining the explanatory and response variables and understanding the difference between simple and multiple linear regression models. Evaluating a model using visualization, polynomial regression techniques, and pipelines were also covered. The learning objectives of this project included describing how to process linear regression in Python, applying model evaluation using visualization in Python, applying polynomial regression techniques to Python, evaluating a data model using visualization, describing the use of R-squared and MSE for in-sample evaluation, and applying prediction and decision making to Python model creation.
 
+<!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
-| *Reading /Saving Other Data Formats* |
+| *Reading / Saving Other Data Formats* |
+-->
 
 #### 05 - Model Evaluation and Refinement.ipynb
 The fifth project, "Model Evaluation and Refinement," focused on the importance of model evaluation and discussed different data model refinement techniques. Overfitting, underfitting, and model selection were covered, as well as using Ridge Regression to regularize and reduce standard errors to prevent overfitting a regression model and using the Grid Search method to tune the hyperparameters of an estimator. The learning objectives for this project included describing data model refinement techniques, explaining overfitting, underfitting, and model selection, applying ridge regression to regularize and reduce standard errors to avoid overfitting a regression model, and applying grid search techniques to Python data.
 
+<!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
-| *Reading /Saving Other Data Formats* |
+| *Reading / Saving Other Data Formats* |
+-->
 
 
 #### 06 - Real Estate Investment Trust Project.ipynb
