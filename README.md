@@ -34,7 +34,7 @@ The first project, "Data Acquisition," focused on using Python libraries to impo
 
 
 
-|**![]([http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
+|**![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
 | *Test* |
 
