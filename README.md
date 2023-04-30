@@ -42,11 +42,9 @@ The first project, "Data Acquisition," focused on using Python libraries to impo
 #### 02 - Data Wrangling.ipynb
 The second project, "Data Wrangling," covered the fundamental tasks required for pre-processing and cleaning data sets. It included handling missing values, formatting data, normalizing data, binning, and converting categorical variables to numerical quantitative variables. The learning objectives for this project were to describe how to handle missing values, data formatting techniques, data normalization, binning, and categorical variables.
 
-|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins1.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins2.png" width="45%" height="45%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins3.png" width="45%" height="45%">| 
+|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins1.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins2.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins3.png" width="100%" height="100%">| 
 |:--:|:--:|:--:| 
-| *Converting a SQL query result to a pandas dataframe to graph the test score distribution* 
-| *"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."* 
-|*"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."* |
+| *Converting a SQL query result to a pandas dataframe to graph the test score distribution*| *"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."*|*"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."*|
 
 
 #### 03 - Exploratory Data Analysis.ipynb
