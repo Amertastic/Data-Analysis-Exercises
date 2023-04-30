@@ -49,6 +49,11 @@ The second project, "Data Wrangling," covered the fundamental tasks required for
 #### 03 - Exploratory Data Analysis.ipynb
 The third project, "Exploratory Data Analysis," focused on understanding and performing exploratory data analysis using statistical measures such as mean, median, mode, and quartile values. Grouping data values into bins and comparing two continuous numerical variables using Pearson correlation and using the Chi-square test to find the association between two categorical variables were also covered. The learning objectives of this project were to implement descriptive statistics, describe data correlation processes, describe why and how to apply the Chi-Squared test, and demonstrate the basics of grouping.
 
+|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/PositiveLinearRelationship.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/WeakLinearRelationship.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *Positive Linear Relationship* | *Weak Linear Relationship* |
+
+
 <!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
 |:--:| 
