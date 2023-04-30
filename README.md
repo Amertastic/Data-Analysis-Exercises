@@ -33,12 +33,6 @@ The projects and exercises uploaded cover the Data Analysis with Python course o
 The first project, "Data Acquisition," focused on using Python libraries to import data from different sources and perform basic tasks to explore and analyze data sets. The learning objectives of this project include analyzing Python data using a dataset, identifying Python libraries, reading data using Pandas, and demonstrating how to import and export data in Python.
 
 
-<!--
-|![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
-|:--:| 
-| *Reading / Saving Other Data Formats* |
--->
-
 #### 02 - Data Wrangling.ipynb
 The second project, "Data Wrangling," covered the fundamental tasks required for pre-processing and cleaning data sets. It included handling missing values, formatting data, normalizing data, binning, and converting categorical variables to numerical quantitative variables. The learning objectives for this project were to describe how to handle missing values, data formatting techniques, data normalization, binning, and categorical variables.
 
@@ -54,15 +48,16 @@ The third project, "Exploratory Data Analysis," focused on understanding and per
 | *Positive Linear Relationship* | *Weak Linear Relationship* |
 
 
-<!--
-|![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
-|:--:| 
-| *Reading / Saving Other Data Formats* |
--->
 
 
 #### 04 - Model Development.ipynb
 The fourth project, "Model Development," covered defining the explanatory and response variables and understanding the difference between simple and multiple linear regression models. Evaluating a model using visualization, polynomial regression techniques, and pipelines were also covered. The learning objectives of this project included describing how to process linear regression in Python, applying model evaluation using visualization in Python, applying polynomial regression techniques to Python, evaluating a data model using visualization, describing the use of R-squared and MSE for in-sample evaluation, and applying prediction and decision making to Python model creation.
+
+
+|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/RegressionPlot.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/PolynomialRegression.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *Linear Regression* | *Polynomial Regression* |
+
 
 <!--
 |![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
