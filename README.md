@@ -54,7 +54,7 @@ The third project, "Exploratory Data Analysis," focused on understanding and per
 The fourth project, "Model Development," covered defining the explanatory and response variables and understanding the difference between simple and multiple linear regression models. Evaluating a model using visualization, polynomial regression techniques, and pipelines were also covered. The learning objectives of this project included describing how to process linear regression in Python, applying model evaluation using visualization in Python, applying polynomial regression techniques to Python, evaluating a data model using visualization, describing the use of R-squared and MSE for in-sample evaluation, and applying prediction and decision making to Python model creation.
 
 
-|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/RegressionPlot.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/PolynomialRegression.png" width="100%" height="100%"> | 
+|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/RegressionPlot.png" width="50%" height="50%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/PolynomialRegression.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *Linear Regression* | *Polynomial Regression* |
 
