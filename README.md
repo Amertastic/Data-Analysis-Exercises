@@ -44,11 +44,7 @@ The second project, "Data Wrangling," covered the fundamental tasks required for
 
 |<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins1.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins2.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/horsepowerbins3.png" width="100%" height="100%">| 
 |:--:|:--:|:--:| 
-| *Converting a SQL query result to a pandas dataframe to graph the test score distribution*| 
-
-<!--
-*"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."*|*"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."*|
--->
+| *Example of Horsepower Binning 1*| *Example of Horsepower Binning 2*|*Example of Horsepower Binning 3*|
 
 #### 03 - Exploratory Data Analysis.ipynb
 The third project, "Exploratory Data Analysis," focused on understanding and performing exploratory data analysis using statistical measures such as mean, median, mode, and quartile values. Grouping data values into bins and comparing two continuous numerical variables using Pearson correlation and using the Chi-square test to find the association between two categorical variables were also covered. The learning objectives of this project were to implement descriptive statistics, describe data correlation processes, describe why and how to apply the Chi-Squared test, and demonstrate the basics of grouping.
