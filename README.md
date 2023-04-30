@@ -69,7 +69,7 @@ The fourth project, "Model Development," covered defining the explanatory and re
 The fifth project, "Model Evaluation and Refinement," focused on the importance of model evaluation and discussed different data model refinement techniques. Overfitting, underfitting, and model selection were covered, as well as using Ridge Regression to regularize and reduce standard errors to prevent overfitting a regression model and using the Grid Search method to tune the hyperparameters of an estimator. The learning objectives for this project included describing data model refinement techniques, explaining overfitting, underfitting, and model selection, applying ridge regression to regularize and reduce standard errors to avoid overfitting a regression model, and applying grid search techniques to Python data.
 
 
-|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/ModelEvaluationAndRefinement.png" width="45%" height="45%">| 
+|<img src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/ModelEvaluationAndRefinement.png" width="65%" height="65%">| 
 |:--:| 
 | *"A polynomial regression model where red dots represent training data, green dots represent test data, and the blue line represents the model prediction."* |
 
